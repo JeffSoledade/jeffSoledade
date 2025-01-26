@@ -21,13 +21,13 @@
 ##
   <div align="center">
     <a href="https://https://github.com/JeffSoledade)">
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jeffsoledade&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsoledade&layout=compact&langs_count=7&theme=calm_pink"/>
+    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jeffsoledade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsoledade&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
 #
   <picture align="center">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffsoledade/jeffsoledade/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark_dimmed)" srcset="https://raw.githubusercontent.com/jeffsoledade/jeffsoledade/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffsoledade/jeffsoledade/output/github-contribution-grid-snake-dark.svg">
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeffsoledade/jeffsoledade/output/github-contribution-grid-snake.svg">
 </picture>
