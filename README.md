@@ -21,8 +21,8 @@
 ##
   <div align="center">
     <a href="https://https://github.com/JeffSoledade)">
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jeffsoledade&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsoledade&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jeffsoledade&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsoledade&layout=compact&langs_count=7&theme=calm_pink"/>
   </div>
 
 #
