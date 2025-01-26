@@ -1,4 +1,4 @@
-## Olá! Eu sou Jefferson Soledade
+## Jefferson Soledade
 
 - 🔭 Entusiasta de tecnologia | Aprendendo sempre
 - 📎 Desenvolvedor JavaScript iniciante
@@ -6,24 +6,33 @@
 
 ## 
 <b>Meu Stack</b>
-<div style="display: inline_block"><br>
-    <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-</div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
 
 ##
 <b>Contato</b>
 
  <div style="display: inline_block"><br>
     <a href = "mailto:jeffsoledadesantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jefferson-soledade-14641430b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">      </a>
+    <a href="https://www.linkedin.com/in/jefferson-soledade-14641430b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
    
 ##
-  <div align="center">
-    <a href="https://https://github.com/JeffSoledade)">
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jeffsoledade&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <!img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsoledade&layout=compact&langs_count=7&theme=codeSTACKr">
-  </div>
+<div style="text-align: center;" align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffsoledade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=ff652f&text_color=FFF&border_radius=3&border_color=0d1117&icon_color=ff652f&theme=jolly" alt="GitHub stats">
+
+<a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffsoledade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff652f&hide=html,scss,less&bg_color=0d1117&text_color=8B8B8B&border_radius=3&border_color=0d1117&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
 
 #
   <picture align="center">
