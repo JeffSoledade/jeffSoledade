@@ -1,7 +1,7 @@
 <h1>Jefferson Soledade</h1>
 
 - 🔭 Entusiasta de tecnologia | Aprendendo sempre
-- 📎 Desenvolvedor JavaScript iniciante
+- 📎 Estudante Data-Science
 - 👔 Pronouns: ele/dele
 
 ## 
